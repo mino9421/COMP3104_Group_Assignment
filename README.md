@@ -1,5 +1,5 @@
 # COMP3104 Group #17 Assignemnt
-![alt text](https://cdn1.iconfinder.com/data/icons/devops-cycle/256/devops_cycle_1_filled-512.png)
+![alt text](https://sparinfosys.com/wp-content/uploads/2020/05/devops-multicolor.png)
 ### Armen Levon Armen
 ### Carter
 
