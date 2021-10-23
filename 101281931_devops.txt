@@ -1,3 +1,5 @@
 In DEVOPS we learn Developer & Operation cycle.
 the cycle has phases and in each phase we use a certain tool.
 we have been exploring these tools in this course.
+
+we have been playing around with git, travis, jenkins
