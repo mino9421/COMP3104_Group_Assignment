@@ -7,3 +7,5 @@ we have been playing around with git, travis, jenkins
 
 I have no idea what to put here so its just gonna be a filler to finish 10 commits since there is nothing much to add.
 
+
+hello there commit juicer
