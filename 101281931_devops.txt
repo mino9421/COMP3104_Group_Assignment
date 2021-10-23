@@ -3,3 +3,7 @@ the cycle has phases and in each phase we use a certain tool.
 we have been exploring these tools in this course.
 
 we have been playing around with git, travis, jenkins
+
+
+I have no idea what to put here so its just gonna be a filler to finish 10 commits since there is nothing much to add.
+
