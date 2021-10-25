@@ -1,13 +1,10 @@
 # COMP3104 Group #17 Assignemnt
 ![DEV OPS](https://sparinfosys.com/wp-content/uploads/2020/05/devops-multicolor.png)
-### Armen Levon Armen
+### Armen
 ### Carter
+### Nafis
+### Harsh
 
-
-
-#### Need to invite team members
-
-#### 1.Team members must create personal branches as per assignment's request
-##### branch name must be named STUDENTID-Name e.g. 1023756-Pritesh
-
-#### 2.
+#### Branches have been created
+#### 10 commits have been done from every branch
+#### Merged everything without conflicts
