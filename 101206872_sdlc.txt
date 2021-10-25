@@ -1,1 +1,2 @@
 1. The learning of DevOps helps in reducing the time for cycles of development and also ensures a faster rate of innovation
+ Learning DevOps ensures that there is a reduction in rollbacks, failures regarding deployment and also the time is taken to recover
