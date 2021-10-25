@@ -3,3 +3,7 @@ Specifically, a field where servers, web apps and infrastructure will be core to
 business needs. COMP 3104 will provide a hands-on experience through the
 implementation of tried, tested and true DevOps technologies.
 
+to sucess on the course
+1. Your lab and lecture attendance
+2. Completion of lecture quizzes
+3. Following weekly lab exercises
