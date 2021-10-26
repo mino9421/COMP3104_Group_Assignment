@@ -4,4 +4,4 @@ It aims to shorten the systems development life cycle and provide continuous del
 several DevOps aspects came from the Agile methodology.
 
 
-DEVOPS
+DEVOPS//

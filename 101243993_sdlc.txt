@@ -3,4 +3,4 @@ In a DevOps model, Developers and Operations teams work together closely — and
 sometimes as one team — to accelerate innovation and the deployment of higher-quality 
 and more reliable software products and functionalities.
 
-DEVOPS is crucial in SDLC.
+DEVOPS is crucial in SDLC.//
