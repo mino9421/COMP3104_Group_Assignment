@@ -10,3 +10,5 @@
 ##### 
 
 #### 2. Created gbc,devops,sdlc text files.
+
+#### 3. Edited texts in gbc,devops,sdlc text files.
